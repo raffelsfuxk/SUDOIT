@@ -59,14 +59,9 @@
 ## 📦 Installation
 
 ```bash
-# Prerequisites (Kali Linux)
-sudo apt update
-sudo apt install -y aircrack-ng reaver hcxtools hashcat python3-pip
-
-# Clone & Install
-git clone https://github.com/raffelsfuxk/SUDOIT.git
-cd SUDOIT
-pip install -r requirements.txt
+# One-line install
+git clone https://github.com/raffelsfuxk/SUDOIT.git && cd SUDOIT && sudo bash install.sh
 
 # Run
 sudo python3 sudoit.py
+```
