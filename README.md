@@ -64,7 +64,7 @@ sudo apt update
 sudo apt install -y aircrack-ng reaver hcxtools hashcat python3-pip
 
 # Clone & Install
-git clone https://github.com/CR0WNNE0-fuxv/SUDOIT.git
+git clone https://github.com/raffelsfuxk/SUDOIT.git
 cd SUDOIT
 pip install -r requirements.txt
 
