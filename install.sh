@@ -33,7 +33,7 @@ apt install -y \
     python3-pip
 
 echo "[*] Installing Python dependencies..."
-pip3 install -r requirements.txt
+pip3 install -r requirements.txt --break-system-packages
 
 echo "[*] Creating symlink..."
 chmod +x sudoit.py
