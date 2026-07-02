@@ -38,20 +38,20 @@
 
 ## 📋 Features
 
-- 🔍 Advanced WiFi Scanner (2.4/5 GHz + OUI fingerprinting)
-- 🤝 WPA/WPA2 Handshake Capture (automated deauth)
-- 💀 PMKID Attack (clientless)
-- 📡 Deauth Attack Detection
-- 🔓 WPS Pixie Dust Attack
-- 👻 Evil Twin Detection
-- 📻 KARMA Attack (probe monitoring)
-- 🚨 Beacon Flood Detection
-- 🎭 MAC Spoofing & Randomization
-- 🔑 Cracking Engine (aircrack-ng + hashcat)
-- 📊 Report Generator (JSON/HTML/CSV/PDF)
-- 🌐 Web Dashboard (Flask + WebSocket)
-- 🔌 Plugin System
-- 💾 SQLite Session Persistence
+- Advanced WiFi Scanner (2.4/5 GHz + OUI fingerprinting)
+- WPA/WPA2 Handshake Capture (automated deauth)
+- PMKID Attack (clientless)
+- Deauth Attack Detection
+- WPS Pixie Dust Attack
+- Evil Twin Detection
+- KARMA Attack (probe monitoring)
+- Beacon Flood Detection
+- MAC Spoofing & Randomization
+- Cracking Engine (aircrack-ng + hashcat)
+- Report Generator (JSON/HTML/CSV/PDF)
+- Web Dashboard (Flask + WebSocket)
+- Plugin System
+- SQLite Session Persistence
 
 ---
 
