@@ -6,7 +6,7 @@
 
 ## 👤 Author
 
-**Created by:** CR0WNNE0_fuxv>#SUDOIT  
+**Created by:** raffelsfuxk  
 **Team:** Ethical Hacker Lab  
 **Project:** SUDOIT Framework  
 **Version:** 1.0.0

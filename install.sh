@@ -1,6 +1,6 @@
 #!/bin/bash
 # SUDOIT Framework Installer
-# Created by: CR0WNNE0_fuxv>#SUDOIT
+# Created by: raffelsfuxk
 
 echo "========================================="
 echo "  SUDOIT Framework Installer v1.0"
