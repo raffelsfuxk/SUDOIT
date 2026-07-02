@@ -6,9 +6,8 @@
 
 ## 👤 Author
 
-**Created by:** raffelsfuxk  
-**Team:** Ethical Hacker Lab  
-**Project:** SUDOIT Framework  
+**Created by:** raffelsfuxk   
+**Project:** SUDOIT  
 **Version:** 1.0.0
 
 ---
